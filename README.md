@@ -2,6 +2,10 @@
 
 
 <!-- 
+git add .
+git commit -m "Update README"
+git push
+
 cd "/Users/nirmal/Documents/Perficient/Rag Project"
 git status
 
